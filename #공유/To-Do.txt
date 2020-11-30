@@ -1,9 +1,8 @@
 
 @ 11월25일(수) 미팅
  1. 계획서 보완 
-    - Kaggle 및 기존 경진대회 목표 보완, PPT 3~4page
-    ==> 계획서 작성중, WBS 작성중
- 2. 논문리뷰 PPT로 정리                                  [Complete]
+    - Kaggle 및 기존 경진대회 목표 보완, 계획서 작성중, WBS [Complete]
+ 2. 논문리뷰 PPT로 정리                                   [Complete]
     - 논문제목 / 논문에서 알고리즘 / 활용한 데이터 / 예측대상
  3. 요건정의 - kaggle 목표 등 포함 --> 요구사항 정의서 완료 [Complete]
  4. 팀명 정하기 - B&H (Buy & Hold - 가칭 존버)            [Complete]
