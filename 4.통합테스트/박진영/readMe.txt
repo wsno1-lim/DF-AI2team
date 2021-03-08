@@ -1,6 +1,6 @@
 1. 프로그램 실행
   main.ipynb 를 참고해주세요
-  (model.py 와 predict.py 를 import)
+  (model.py 와 predict.py 를 import 하기 때문에 main.ipynb 와 같은 경로에 다운로드 받으셔야 합니다!)
 
 2. 주피터 설정 :
   https://kkaeruk.tistory.com/8
